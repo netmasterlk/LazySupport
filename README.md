@@ -18,7 +18,7 @@ Lazy Support](https://t.me/lazySupport)
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/netmasterlk/Lazy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/netmasterlk/LazySupport)
 
 ## Credits
 Special Thank Isira PiumATH
